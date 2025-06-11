@@ -53,3 +53,20 @@ h5 {
 .featured-post:hover img {
     transform: scale(1.05);
 }
+
+
+.share-button {
+    transition: transform 0.2s ease;
+}
+
+.share-button:hover {
+    transform: translateY(-3px);
+}
+
+.related-post {
+    transition: transform 0.3s ease;
+}
+
+.related-post:hover {
+    transform: translateY(-5px);
+}
