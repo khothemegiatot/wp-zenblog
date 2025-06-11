@@ -1,6 +1,4 @@
-<?php
-get_header();
-?>
+<?php get_header(); ?>
 
 <section class="max-w-3xl mx-auto py-16 px-4">
     <h1 class="text-3xl font-bold mb-8">Search Results for: <?php echo get_search_query(); ?></h1>
